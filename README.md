@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on Any AI Project
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: my running pace is 06:00
+- ⚡ Fun fact: i need 300mg of caffeine everyday to keep my self alive
 
 <!---
 Sull1van-bit/Sull1van-bit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
