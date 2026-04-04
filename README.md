@@ -1,5 +1,4 @@
-<h1 align="center">Hi there, I'm Sullivan 👋</h1>
-<h3 align="center">Machine Learning Engineer | Full-Stack Developer | Informatics Student</h3>
+![header](https://capsule-render.vercel.app/api?&type=waving&theme=tokyonight&text=Hi,%20there%20I'm%20Sullivan%20-nl-&section=header&height=200&desc=Machine%20Learning%20Engineer%20and%20Full-Stack%20Developer&animation=scalein&fontSize=50&fontAlign=31&fontAlignY=30&descSize=25&descAlign=37&descAlignY=40)
 
 <p align="center">
   Welcome to my GitHub! I am a software engineer and computer science enthusiast passionate about building impactful solutions, exploring new technologies, and sharing knowledge.
