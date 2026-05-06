@@ -1,62 +1,27 @@
-![header](https://capsule-render.vercel.app/api?&type=waving&theme=tokyonight&text=Hi,%20there%20I'm%20Sullivan%20-nl-&section=header&height=200&desc=Machine%20Learning%20Engineer%20and%20Full-Stack%20Developer&animation=scalein&fontSize=50&fontAlign=31&fontAlignY=30&descSize=25&descAlign=37&descAlignY=40)
-
-<p align="center">
-  Welcome to my GitHub! I am a software engineer and computer science enthusiast passionate about building impactful solutions, exploring new technologies, and sharing knowledge.
-</p>
-
-## 👨‍💻 About Me
-
-* 🎓 I'm currently pursuing my degree in **Informatics** at Universitas Multimedia Nusantara (UMN).
-* 🤝 I actively contribute to my campus community as the **Competition Division Coordinator** at UMN Programming Club, **Finance Coordinator** for HMIF UMN, and part of the Website Division at Fortius UMN.
-* 🌱 **Currently exploring:** Web3 development (Solidity, Motoko), workflow automation (n8n), and advanced cybersecurity concepts.
-* 💼 **Goals:** Securing a tech internship and building my own business by age 25.
-
-## 🚀 Featured Projects & Achievements
-
-* 🏆 **LeftOver:** A marketplace platform designed to reduce food waste. Recognized as a **Finalist at Garuda Hacks 6.0**.
-* 🕹️ **Dreamlight:** A casual web game inspired by Vampire Survivor I developed for fun while exploring and learning the **Phaser** framework.
-* 🌐 **Campus Events:** Contributed to the website development for campus events like Radioactive 2025.
-
-## 💻 Tech Stack & Tools
-
-**OS**
-
-[![OS](https://skillicons.dev/icons?i=windows,ubuntu)](https://skillicons.dev)
+# 💫 About Me:
+* 🎓 I'm currently pursuing my degree in **Informatics** at Universitas Multimedia Nusantara (UMN).<br>* 🤝 I actively contribute to my campus community as the **Competition Division Coordinator** at UMN Programming Club, **Finance Coordinator** for HMIF UMN, and part of the Website Division at Fortius UMN.<br>* 🌱 **Currently exploring:** Web3 development (Solidity, Motoko), workflow automation (n8n), and advanced cybersecurity concepts.<br>* 💼 **Goals:** Securing a tech internship and building my own business by age 25.
 
 
-**IDE**
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@rafael_romelo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rafael-romelo-615657289) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rafaelromelogibran400@gmail.com) 
 
-[![IDE](https://skillicons.dev/icons?i=vscode,webstorm,pycharm,idea)](https://skillicons.dev)
+# 💻 Tech Stack:
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Sull1van-bit&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Sull1van-bit&theme=neon&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sull1van-bit&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-**Frontend:** 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Sull1van-bit&theme=gotham&no-frame=false&no-bg=true&margin-w=4)
 
-[![Frontend Skills](https://skillicons.dev/icons?i=js,ts,css,react,nextjs,vue,tailwind,bootstrap)](https://skillicons.dev)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
-**Backend & Database:** 
+### 🔝 Top Repo
+![](https://github-contributor-stats.vercel.app/api?username=Sull1van-bit&limit=5&theme=gotham&combine_all_yearly_contributions=true)
 
-[![Backend Skills](https://skillicons.dev/icons?i=nodejs,python,go,c,cpp,express,fastapi,mongodb,mysql,supabase,firebase)](https://skillicons.dev)
+---
+[![](https://komarev.com/ghpvc/?username=Sull1van-bit&icon=2&color=13)](https://visitcount.itsvg.in)
 
-**Others:**
-
-[![My Skills](https://skillicons.dev/icons?i=solidity,pytorch,anaconda,tensorflow,docker,git,npm,pnpm)](https://skillicons.dev)
-
-## ⚡ Beyond the Screen
-
-When I'm not writing code or debugging, you can usually find me:
-* ☕ Brewing a good cup of coffee or listening to my playlist.
-* 🏋️ Hitting the gym or going for a run.
-* 🐉 Getting immersed in RPGs like Skyrim and Dragon Age.
-* 🏈 Watching the NFL.
-* 😄 Always up for exchanging good software engineering jokes!
-
-## 📫 Let's Connect!
-
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rafael-romelo-615657289)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/rafael_romelo)
-[![Email](https://skillicons.dev/icons?i=gmail)](mailto:rafaelromelogibran400@gmail.com)
-
-***
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sull1van-bit&show_icons=true&theme=radium" alt="GitHub Stats" />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
